@@ -1,2 +1,3 @@
 the bgm file was deleted
-codes related should be **disabled**
+
+codes related should be **Disabled**
