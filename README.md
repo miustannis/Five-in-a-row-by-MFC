@@ -1,3 +1,1 @@
-the bgm file was deleted
-
-codes related should be **Disabled**
+The BGM file was deleted so codes related should be **Disabled**
